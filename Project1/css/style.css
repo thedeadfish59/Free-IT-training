@@ -1,0 +1,157 @@
+body{
+	font-size: 16px;
+	line-height: 1.6;
+	background: #FFFFFF;
+}
+
+.socialnav ul li a{
+	display: inline-block;
+	padding: 6px;
+	color:white;
+	font-size: 30px;
+}
+/*welcome*/
+.section-header {
+    display: inline-block;
+    background-color: #249bae;
+    color: white;
+    padding:40px 50px ;
+    margin: 0;
+}
+.header-floating {
+    position: absolute;
+    z-index: 1;
+    top: -55px;
+}
+
+
+.content{
+overflow: hidden;
+margin-top: 128px;
+    margin-bottom: 15px;	
+}
+#offertext:hover{
+	font-size:35px;
+
+}
+.leftcontent{
+	width: 35%;
+	float: left;
+	text-align: justify;
+	padding: 12px;
+	margin-right: 20px;
+}
+.rightcontent{
+	width: 60%;
+	float: right;
+	text-align: justify;
+	padding: 60px;
+	margin-top: 31px;
+	text-align: justify;
+	margin-bottom: 50px;
+	background-color: #d2cece73;
+}
+.rightcontent p{
+	margin-top: 25px;
+text-align: justify;
+margin-bottom: 50px;
+}
+
+.rightcontent a h3{
+	margin-top: 20px;
+	color:black;
+	letter-spacing: 3px;
+	font-weight: 501;
+}
+
+
+/*footer*/
+#footer{
+	padding:6em 0;
+	background-color:  #249bae;
+}
+.social ul li{
+	display: inline;
+}
+.social ul li a{
+	display: inline-block;
+	padding: 8px;
+	color:black;
+	font-size: 30px;
+}
+.ftext{
+	color:black;
+}
+.links li a{
+color:black;
+}
+
+/*contact*/
+.contact{
+	margin-top:50px;
+	padding:40px 10px;
+	background-color:#d2cece73; 
+
+}
+.form-section{
+	margin-top:40px;
+}
+.button{
+	margin-left:16px;
+}
+
+/*product*/
+.title{
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	font-size: 30px;
+	font-weight: 350;
+	margin-top: 20px;
+}
+
+.laptop-row{
+	padding:20px;
+
+}
+.laptop-row .col-lg-4{
+	border:3px solid #d2cece73;
+	overflow: hidden;
+	padding:20px;
+	background-color:#d2cece73; 
+}
+#laptop-section{
+	margin-top: 60px;
+}
+
+
+/*FAQ*/
+
+#accordionExample{
+	padding-top: 115px;
+	padding-bottom: 40px;
+}
+
+
+.faqb{
+	font-size: 20px;
+	letter-spacing:.1em ;
+	color:black;
+	font-family: arial;
+}
+
+/*cart*/
+.cartbody{
+	margin-top: 113px;
+	margin-bottom: 100px;
+	padding: 20px 81px 40px 0px;
+	position: relative;
+}
+.sadbag{
+	width:300px;
+	height: 300px;
+	margin-left: 254px;
+}
+.wishtitle{
+	margin-left: 225px;
+	letter-spacing: .1em;
+}
